@@ -1,4 +1,4 @@
-Python Fundamentals
+Course 1 - Python Fundamentals
 =====================================
 
 Date

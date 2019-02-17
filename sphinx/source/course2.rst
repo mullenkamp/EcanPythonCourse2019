@@ -1,4 +1,4 @@
-Pandas Fundamentals
+Course 2 - Pandas Fundamentals
 =====================================
 
 Date
