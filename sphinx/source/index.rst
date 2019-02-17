@@ -41,9 +41,8 @@ Instructors
 
 .. toctree::
    :maxdepth: 2
-   :caption: Course 1 - Python Fundamentals
+   :caption: Sections
 
-   date_location
    prerequisites
-   schedule
+   course1
    license-terms
