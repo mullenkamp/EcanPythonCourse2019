@@ -11,7 +11,7 @@ All materials are accessible via the `course website <https://ecanpythoncourse20
 
 Intended audience
 ------------------
-The intended audience for the courses are people with very little to some experience with programming (Python or otherwise). Those people with a lot of Python programming experience will not likely get much out of the workshop unless they have not used the `Pandas package <http://pandas.pydata.org/pandas-docs/stable/>`_ in the past.
+The intended audience for the courses are people with very little to some experience with programming (Python or otherwise). Those people with a lot of Python programming experience will not likely get much out of the courses unless they have not used the `Pandas package <http://pandas.pydata.org/pandas-docs/stable/>`_ in the past.
 
 Course summary
 --------------
@@ -19,7 +19,7 @@ The courses will cover the python basics and the fundamental handling of tabular
 
 Prerequisites
 -------------
-The only **prerequisite** for the courses is to familiarise yourself with Jupyter notebooks as this will be the primary way we will be interacting with Python. Please go through "Using the Jupyter Notebooks for the workshop modules" in the section `prerequisites`. This section also contains a description on how to install Python on your own PC if interested.
+The only **prerequisite** for the courses is to familiarise yourself with Jupyter notebooks as this will be the primary way we will be interacting with Python. Please go through "Using the Jupyter Notebooks for the course modules" in the section :doc:`prerequisites`. This section also contains a description on how to install Python on your own PC if interested.
 
 Registration
 ------------
