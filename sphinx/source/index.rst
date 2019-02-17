@@ -45,4 +45,5 @@ Instructors
 
    prerequisites
    course1
+   course2
    license-terms

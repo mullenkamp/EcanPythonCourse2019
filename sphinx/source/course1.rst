@@ -3,7 +3,7 @@ Python Fundamentals
 
 Date
 ----
-The course will take place at 13:00 on Wed March 13th or 9:00 on Thursday 14th, 2019. It will likely run until 16:00-17:00 with a morning and an afternoon tea break and lunch. Go to the section :doc:`course1` for more details.
+The course will take place at 13:00 on Wed March 13th or 9:00 on Thursday 14th, 2019.
 
 Location
 --------
