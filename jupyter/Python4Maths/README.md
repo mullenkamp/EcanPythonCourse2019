@@ -32,13 +32,13 @@ print('The sum of ∑_i∈N i*i =',sum( i**2 for i in N ) )
 
 This course is broken up into a number of notebooks (chapters).
 
-* [01](https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F01.ipynb) Basic data types and operations (numbers, strings)
-* [02](https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F02.ipynb) String manipulation
-* [03](https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F03.ipynb) Data structures: Lists and Tuples
-* [04](https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F04.ipynb) Data structures (continued): dictionaries
-* [05](https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F05.ipynb) Control statements: if, for, while, try statements
-* [06](https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F06.ipynb) Functions
-* [07](https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F07.ipynb) Classes and basic object oriented programming
+* [01](https://mybinder.org/v2/gh/mullenkamp/EcanPythonCourse2019.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F01.ipynb) Basic data types and operations (numbers, strings)
+* [02](https://mybinder.org/v2/gh/mullenkamp/EcanPythonCourse2019.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F02.ipynb) String manipulation
+* [03](https://mybinder.org/v2/gh/mullenkamp/EcanPythonCourse2019.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F03.ipynb) Data structures: Lists and Tuples
+* [04](https://mybinder.org/v2/gh/mullenkamp/EcanPythonCourse2019.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F04.ipynb) Data structures (continued): dictionaries
+* [05](https://mybinder.org/v2/gh/mullenkamp/EcanPythonCourse2019.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F05.ipynb) Control statements: if, for, while, try statements
+* [06](https://mybinder.org/v2/gh/mullenkamp/EcanPythonCourse2019.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F06.ipynb) Functions
+* [07](https://mybinder.org/v2/gh/mullenkamp/EcanPythonCourse2019.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F07.ipynb) Classes and basic object oriented programming
 
 
 This is a tutorial style introduction to Python. For a quick reminder / summary of Python syntax the following [Quick Reference Card](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html) may be useful. A longer and more detailed tutorial style introduction to python is available from the python site at: https://docs.python.org/3/tutorial/
