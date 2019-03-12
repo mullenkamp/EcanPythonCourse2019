@@ -19,7 +19,11 @@ The courses will cover the python basics and the fundamental handling of tabular
 
 Prerequisites
 -------------
-The only **prerequisite** for the courses is to familiarise yourself with Jupyter notebooks as this will be the primary way we will be interacting with Python. Please go through "Using the Jupyter Notebooks for the course modules" in the section :doc:`prerequisites`. This section also contains a description on how to install Python on your own PC if interested.
+The only **prerequisite** for the courses is to familiarise yourself with Jupyter notebooks as this will be the primary way we will be interacting with Python. Please go through "Using the Jupyter Notebooks for the course modules" in the section :doc:`prerequisites`.
+
+Python Installation
+-------------------
+Installing Python is **not** a requirement of the courses. But you will need to install Python after the courses for your own work. The section :doc:`python_installation` has a tutorial on how to install and use Python environments.
 
 Registration
 ------------
@@ -46,4 +50,5 @@ Instructors
    prerequisites
    course1
    course2
+   python_installation
    license-terms
