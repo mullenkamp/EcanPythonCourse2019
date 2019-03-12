@@ -27,7 +27,7 @@ Installing Python is **not** a requirement of the courses. But you will need to 
 
 Registration
 ------------
-Please sign up on the ME internal ECan site. There will be a maximum of 20 attendees for the workshop. Suggestions for advanced topics or examples are welcome.
+Please sign up on the ME internal ECan site. There will be a maximum of 15 attendees for the workshop. Suggestions for advanced topics or examples are welcome.
 
 Instructors
 -----------
