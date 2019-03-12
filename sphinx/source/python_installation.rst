@@ -2,7 +2,7 @@ Installing Python
 ===============================
 Installing Python is relatively simple and does not require admin rights to install.
 
-Install Miniconda3
+Miniconda
 ------------------
 The first step is to download and install the Python 3 64bit version of `Miniconda <https://conda.io/en/latest/miniconda.html>`_. Miniconda is a variant of the `Anaconda <https://www.anaconda.com/>`_ distribution, but Miniconda only contains the base Python installation and the package manager `conda <https://conda.io/en/latest/>`_. See the earlier link for more details about Miniconda and how to install it.
 
