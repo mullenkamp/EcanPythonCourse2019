@@ -11,7 +11,7 @@ The location of the course will be in the Waimakariri Room.
 
 Course Material
 ---------------
-Through much internal debate, we've decided to utilise the `Introduction to Python <https://github.com/Data-to-Knowledge/Hydrosoc-python-2018/blob/master/jupyter/Python4Maths/README.md>`_. All are completely self-contained with associated exercises.
+Through much internal debate, we've decided to utilise the `Introduction to Python <https://github.com/mullenkamp/EcanPythonCourse2019/blob/master/jupyter/Python4Maths/README.md>`_. All are completely self-contained with associated exercises.
 
 Schedule
 --------
@@ -19,9 +19,9 @@ Schedule
 =============  ========
 Time           Module
 =============  ========
-9:00 - 10:30   `Introduction to Python part 1 <https://github.com/Data-to-Knowledge/Hydrosoc-python-2018/blob/master/jupyter/Python4Maths/README.md>`_
+9:00 - 10:30   `Introduction to Python part 1 <https://github.com/mullenkamp/EcanPythonCourse2019/blob/master/jupyter/Python4Maths/README.md>`_
 10:30 - 10:45  BREAK
-10:45 - 12:15  `Introduction to Python part 2 <https://github.com/Data-to-Knowledge/Hydrosoc-python-2018/blob/master/jupyter/Python4Maths/README.md>`_
+10:45 - 12:15  `Introduction to Python part 2 <https://github.com/mullenkamp/EcanPythonCourse2019/blob/master/jupyter/Python4Maths/README.md>`_
 =============  ========
 
 Reference material
