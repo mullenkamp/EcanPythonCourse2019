@@ -23,7 +23,7 @@ Time           Module
 10:30 - 10:45  BREAK
 10:45 - 12:15  `Pandas fundamentals part 2 <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Fpandas-videos%2Fpandas.ipynb>`_
                and
-               `Time series <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Feffective-pandas%2Fmodern_7_timeseries.ipynb>`_
+               `Time series <https://mybinder.org/v2/gh/mullenkamp/EcanPythonCourse2019/master?filepath=jupyter%2Feffective-pandas%2Fmodern_7_timeseries.ipynb>`_
 =============  ========
 
 Post-workshop exercises and/or courses
